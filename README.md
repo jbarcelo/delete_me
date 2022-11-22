@@ -2,3 +2,4 @@
 test for the class
 
 change
+another change
